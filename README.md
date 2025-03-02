@@ -65,9 +65,6 @@ cd mobile_corner
 - **Orders:** Stores transaction and shipping details.
 - **Reviews:** Stores user feedback and ratings.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 🤝 Contributing
 Contributions are welcome! If you wish to contribute, submit a pull request.
 
