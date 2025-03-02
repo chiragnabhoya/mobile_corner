@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 **Mobile Corner** is an online shopping platform designed for selling mobile-related products. The platform supports both in-house products and third-party sellers, offering a global marketplace for mobile accessories and devices.
 
+![Image](https://github.com/user-attachments/assets/f44f0747-4124-46e3-92d4-fb7393d445e6)
+
 ## 🚀 Features
 ### User Features
 - Register and log in.
