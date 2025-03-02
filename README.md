@@ -5,7 +5,7 @@
 
 ![Image](https://github.com/user-attachments/assets/f44f0747-4124-46e3-92d4-fb7393d445e6)
 
-![Image](https://github.com/chiragnabhoya/mobile_corner/blob/65ac0a91716e4103bfead1f1b1e54db14a014c04/image.png?raw=true)
+![Image](https://raw.githubusercontent.com/chiragnabhoya/mobile_corner/refs/heads/main/image.png)
 
 ## 🚀 Features
 ### User Features
