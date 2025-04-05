@@ -1649,7 +1649,7 @@ class Backend extends CI_Controller {
                                     <td colspan="8">*This is Computer generated invoice. If you have a queries then Contact Us.</td>
                                     <td style="vertical-align: middle; padding: 5px 0px; text-align: center;"></td>
                                     <td style="vertical-align: middle; padding: 20px 0px; text-align: center;">
-                                        <input type="button" class="btn" value="print" style="background: #00baf2; padding: 5px 20px; color: white" onclick="printDiv('printableArea')"    
+                                        <input type="button" class="btn" value="print" style="background: #00baf2; padding: 5px 20px; color: white" onclick="printDiv('printableArea')">    
                                     </td>
                                 </tr>
                                 
